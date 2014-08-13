@@ -174,7 +174,7 @@ Options -MultiViews
     AddType text/x-vcard                                vcf
 
     # Make html behave like PHP
-    AddType application/x-httpd-php                     .htm .html
+    AddType application/x-httpd-php                     .html .htm
 
 </IfModule>
 
